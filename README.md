@@ -1,5 +1,7 @@
 # Læreplan for Lærlingprogrammet i Haugaland Krafts utviklingsavdeling
 
+Dette er et levende dokument ment å vise Haugaland Krafts læreplan for utviklerfaget, og gi et godt innblikk i hvordan vi ønsker å operasjonalisere gjeldende læreplan, og hvordan vi ønsker å følge opp og ta vare lærlinger som skal jobbe hos oss.
+
 Læreplan for utviklingsavdelingen, basert på https://www.udir.no/lk20/iuv03-01.
 
 ## Fagets relevans og sentrale verdier
