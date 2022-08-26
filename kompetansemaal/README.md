@@ -1,22 +1,19 @@
 # Kompetansemål i Haugaland Kraft
 
-Kompetansemålene for tiden som lærling i Haugaland Kraft er definert nedenfor, og vil oppdateres etterhvert som organisasjonen bygger erfaring — og etterhvert som organisasjon, fagdisipling og bransje utvikler seg. 
-
-# Arbeid knyttet til konkrete kompetansemål
-
-Fra læreplanen har vi noen overordnede kompetansemål, her dokumenterer vi arbeid og leveranser slik de treffer disse forskjellige målene.
-
-- [brukeropplevelse og uu.md](brukeropplevelse%20og%20uu.md)
-- [drift og devops.md](drift%20og%20devops.md)
-- [Integrasjoner og dataflyt.md](Integrasjoner%20og%20dataflyt.md)
-- [Samfunn og bærekraft.md](Samfunn%20og%20b%C3%A6rekraft.md)
-- [Sikkerhet, personvern og etikk.md](Sikkerhet%2C%20personvern%20og%20etikk.md)
-- [stordata og analyse.md](stordata%20og%20analyse.md)
-- [systemutvikling.md](systemutvikling.md)
-- [team metode og samarbeid.md](team%20metode%20og%20samarbeid.md)
-- [test.md](test.md)
+_Kompetansemålene for tiden som lærling i Haugaland Kraft er definert nedenfor, og vil oppdateres etterhvert som organisasjonen bygger erfaring — og etterhvert som organisasjon, fagdisipling og bransje utvikler seg._
 
 Siste versjon av dokumentet er tilgjengelig i [apprenticeship-repoet hos Haugaland Kraft](https://github.com/hkraftno/apprenticeship).
+# Kompetansemål, med kobling til arbeid i Haugaland Krafts utviklingsorganisasjon
+De konkrete kompetansemålene er koblet med relevante arbeidsoppgaver i Haugaland Kraft, og hvordan arbeidsoppgavene vil fordeles utover lærlingtiden i Haugaland Kraft.
+
+Gjennomgående vil hvert kompetansemål ha en teoretisk og en praktisk komponent — hvor lærling delvis vil få opplæring av utviklere, og delvis bestå av praktisk arbeid — som typisk vil utføres innenfor rammene av et team innenfor rammene av Haugaland Krafts utviklingsorganisasjon. Dette speiler hverdagen til utviklerne som jobber i avdelingen, og vil gi lærlingene en helhetsforståelse av hvordan faget utføres i bedriften og hvordan faget lever i et samspill med andre tilgrensende fagområder.
+
+Leder av utviklingsavdelingen er overordnet ansvarlig for lærlingene og deres faglige utvikling, og er generelt ansvarlig for å sikre riktig instruktørkompetanse til kompetansemålene. Tidsperiode er delt opp i åtte kvartaler for to års læretid, og må leses som helt overordnet retningsgivende. 
+
+Noen kompetansemål går på grunnleggende ferdigheter som utvikler som vil jobbes med fra starten av og frem til lærling går opp til fagprøve. Andre kompetansemål vil få fokus etter hvert som lærlingen bygger opp forståelse. Noen krav vil også kreve mer spissede prosjekter med konkrete delleveranser. 
+
+**Totalt sett er målet at lærlingen skal bygge forståelse fra det grunnleggende til det komplekse ¬— og ved endt læretid kunne forholde seg til oppgaver, krav og forventninger som kreves av en fagutdannet systemutvikler.**
+<br><br>
 
 | **Kompetansemål** | **Relevante arbeidsoperasjoner i Haugaland kraft** | **Opplæringsform** | **Instruktør**| **Tidsperiode**|
 | -- | -- | -- | -- | -- |
