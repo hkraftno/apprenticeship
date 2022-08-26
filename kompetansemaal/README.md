@@ -2,6 +2,20 @@
 
 Kompetansemålene for tiden som lærling i Haugaland Kraft er definert nedenfor, og vil oppdateres etterhvert som organisasjonen bygger erfaring — og etterhvert som organisasjon, fagdisipling og bransje utvikler seg. 
 
+# Arbeid knyttet til konkrete kompetansemål
+
+Fra læreplanen har vi noen overordnede kompetansemål, her dokumenterer vi arbeid og leveranser slik de treffer disse forskjellige målene.
+
+- [brukeropplevelse og uu.md](brukeropplevelse%20og%20uu.md)
+- [drift og devops.md](drift%20og%20devops.md)
+- [Integrasjoner og dataflyt.md](Integrasjoner%20og%20dataflyt.md)
+- [Samfunn og bærekraft.md](Samfunn%20og%20b%C3%A6rekraft.md)
+- [Sikkerhet, personvern og etikk.md](Sikkerhet%2C%20personvern%20og%20etikk.md)
+- [stordata og analyse.md](stordata%20og%20analyse.md)
+- [systemutvikling.md](systemutvikling.md)
+- [team metode og samarbeid.md](team%20metode%20og%20samarbeid.md)
+- [test.md](test.md)
+
 Siste versjon av dokumentet er tilgjengelig i [apprenticeship-repoet hos Haugaland Kraft](https://github.com/hkraftno/apprenticeship).
 
 | **Kompetansemål** | **Relevante arbeidsoperasjoner i Haugaland kraft** | **Opplæringsform** | **Instruktør**| **Tidsperiode**|
@@ -30,17 +44,4 @@ Delta i arbeid med Haugaland Krafts kundeanalyse og arbeid med stordata-løsning
 | 19\. Reflektere over og beskrive hvordan teknologi kan misbrukes og påvirke samfunnet negativt| Gjennomføres ved å utarbeide presentasjon for UD i seksjonsmøte | Praksis-arbeid, diskusjon i teamet, og gjennom rapport som legges frem for avdelingen| Avdeling Utvikling og Digitalisering | Rapport-innlevering i Q6 |
 | 20\. Gjøre rede for hvilke krav og forventninger som stilles til et likeverdig og inkluderende yrkesfellesskap, og reflektere over hvilke plikter og rettigheter arbeidsgiver og arbeidstaker har i lærebedriften | Haugland Kraft er en virksomhet med kunder og medarbeidere fra alle samfunnslag, og med forskjellige funksjonsevner. Med et særlig fokus på psykologisk trygghet og inkludering i arbeidsmiljøet. Lærlingen vil bli invitert til å reflektere over hvordan et inkluderende arbeidsmiljø også kan resultere i inkluderende løsninger og tjenester.| Teori/praksis<br><br> Delvis som en integrert del av arbeidet, delvis som del av arbeidet rundt universell utforming av utviklede løsninger.| Utviklingsavdelingen, med støtte fra HR| Q3–Q8|
 
-# Arbeid knyttet til konkrete kompetansemål
-
-Fra læreplanen har vi noen overordnede kompetansemål, her dokumenterer vi arbeid og leveranser slik de treffer disse forskjellige målene.
-
-- [brukeropplevelse og uu.md](brukeropplevelse%20og%20uu.md)
-- [drift og devops.md](drift%20og%20devops.md)
-- [Integrasjoner og dataflyt.md](Integrasjoner%20og%20dataflyt.md)
-- [Samfunn og bærekraft.md](Samfunn%20og%20b%C3%A6rekraft.md)
-- [Sikkerhet, personvern og etikk.md](Sikkerhet%2C%20personvern%20og%20etikk.md)
-- [stordata og analyse.md](stordata%20og%20analyse.md)
-- [systemutvikling.md](systemutvikling.md)
-- [team metode og samarbeid.md](team%20metode%20og%20samarbeid.md)
-- [test.md](test.md)
 
