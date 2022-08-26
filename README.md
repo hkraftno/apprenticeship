@@ -3,7 +3,7 @@ Dette er et arbeidsdokument og kladdebok for arbeid utført i læretiden hos Hau
 <br><br>
 
 ---
-## **_Husk å skrive i opplæringsloggen hver fredag!_** 💪🏻
+ **_Husk å skrive i opplæringsloggen hver fredag!_** 💪🏻
 ---
 <br><br>
 
