@@ -3,9 +3,11 @@ Dette er et arbeidsdokument og kladdebok for arbeid utført i læretiden hos Hau
 <br><br>
 
 ---
- **_Husk å skrive i opplæringsloggen hver fredag!_** 💪🏻
+**HUSK:**<br>
+ **_Skriv i opplæringsloggen hver fredag!_** 💪🏻
+ 
 ---
-<br><br>
+<br>
 
 # Innhold
 ## 1. [Læreplan](laereplan/README.md)
