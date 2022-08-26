@@ -1,8 +1,16 @@
+# Lærling i Haugaland Kraft
+
+Å være lærling i utviklingsavdelingen i Haugaland Kraft innebærer å jobbe tett med erfarne utviklere og i kryssfunksjonelle team med medlemmer av de andre fagdisiplinene i selskapet.
+
+Gjennom to år i lære vil du jobbe deg gjennom kompetansemålene definert i sentral læreplan, og gjennom dette bygge erfaring og kompetanse — som i sin tur vil gjøre at du som lærling vil få et større og større ansvar i prosjektene du jobber i utover i læretiden.
+
+## Overordnet fremdriftsplan
+Lærlingtiden strekker seg over to år, og avsluttes med en fagprøve.
+
+Du som lærling vil hele veien jobbe som del av et team, og vil jobbe i skarpe utviklingsoppdrag i Haugaland Krafts forretning.
+
 # Læreplan for Lærlingprogrammet i Haugaland Krafts utviklingsavdeling
-
-Dette er et levende dokument ment å vise Haugaland Krafts læreplan for utviklerfaget, og gi et godt innblikk i hvordan vi ønsker å operasjonalisere gjeldende læreplan, og hvordan vi ønsker å følge opp og ta vare lærlinger som skal jobbe hos oss.
-
-Læreplan for utviklingsavdelingen, basert på https://www.udir.no/lk20/iuv03-01.
+Læreplan for utviklingsavdelingen er basert på https://www.udir.no/lk20/iuv03-01.
 
 ## Fagets relevans og sentrale verdier
 
