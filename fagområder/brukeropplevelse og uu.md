@@ -4,7 +4,6 @@
 - utvikle og bruke dokumentasjon og veiledninger
 - veilede brukere i ulike oppgaver
 - videreutvikle en løsning for å ivareta brukernes behov
-  -
 
 ### Design, interaksjon og brukerdialog
 
