@@ -2,7 +2,6 @@
 
 _Kompetansemålene for tiden som lærling i Haugaland Kraft er definert nedenfor, og vil oppdateres etterhvert som organisasjonen bygger erfaring — og etterhvert som organisasjon, fagdisipling og bransje utvikler seg._
 
-Siste versjon av dokumentet er tilgjengelig i [apprenticeship-repoet hos Haugaland Kraft](https://github.com/hkraftno/apprenticeship).
 # Kompetansemål, med kobling til arbeid i Haugaland Krafts utviklingsorganisasjon
 De konkrete kompetansemålene er koblet med relevante arbeidsoppgaver i Haugaland Kraft, og hvordan arbeidsoppgavene vil fordeles utover lærlingtiden i Haugaland Kraft.
 
